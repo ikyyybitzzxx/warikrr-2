@@ -3,7 +3,7 @@
 // SC ORI HYZER
 // CREATOR KRIZYN OFC
 // RECODE BY RIEL OFC
-// RECODE BACK BY ARULL OFC
+// RECODE BACK BY KIXZ OFC
 
 //=============『 Utama 』================== //
 global.owner = ['6285922480867'] 
@@ -45,7 +45,7 @@ global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = '⏳ Stiker sedang Proses'
 global.packname = 'Sticker By'
-global.author = '@ArullOfc✵'
+global.author = '@KixzzVd✵'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
